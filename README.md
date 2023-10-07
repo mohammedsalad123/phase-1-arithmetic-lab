@@ -407,7 +407,7 @@ rely on the test failure messages to guide your code.
 
 ## Instructions
 
-1. Create a variable called `multiply` set to an equation that will multiply the
+1. Create a variable called `multiply`set to an equation that will multiply the
    variables `num1` and `num2`; the result of the multiplication should be `62`.
 2. Create a variable called `random` that will generate a random integer greater
    than 0.
